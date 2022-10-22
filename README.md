@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> and <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+🌱 I’m currently learning [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>](https://en.wikipedia.org/wiki/C_(programming_language))
+
+🔭 I’m currently working on CS50 (Harvard’s Introduction to Computer Science)
 
 💬 I'm a 15 year old student in the UK
 
@@ -15,7 +17,7 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>](https://www.lua.org/)
 [<code><img height="20" src="https://luau-lang.org/assets/images/luau-88.png"></code>](https://luau-lang.org/)
-
+[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>](https://en.wikipedia.org/wiki/C_(programming_language))
 
 **📈 My Statistics**
 
