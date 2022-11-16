@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>](https://en.wikipedia.org/wiki/C_(programming_language))
+🌱 I’m currently learning C
 
-🔭 I’m currently working on CS50 (Harvard’s Introduction to Computer Science)
+🔭 I’m currently working on HackTheBox
 
 🤔  I'm planning to learn [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>](https://www.electronjs.org/) in the future
 
