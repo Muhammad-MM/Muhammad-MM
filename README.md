@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Bash
+🌱 I’m currently improving on my [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://en.wikipedia.org/wiki/JavaScript) skills
 
-🔭 I’m currently working on HackTheBox
 
-🤔  I'm planning to learn [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>](https://www.electronjs.org/) in the future
+🤔  I'm also learning [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>](https://www.electronjs.org/) on the side
 
 💬 I'm a 15 year old student in the UK
 
